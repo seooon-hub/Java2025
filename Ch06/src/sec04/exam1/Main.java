@@ -24,8 +24,8 @@ public class Main {
 //		hyundai.Plus(1.0, 2);
 //		hyundai.Plus(1, 2.0);
 //		hyundai.Plus(1);
-		
-		//hyundai.ShowNumberOfCars();
+	
+//		hyundai.ShowNumberOfCars();
 		Car c1 = new Car(1,1, "", "");
 		Car c2 = new Car(1,1, "", "");
 		Car c3 = new Car(1,1, "", "");
